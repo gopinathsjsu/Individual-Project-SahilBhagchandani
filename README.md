@@ -38,6 +38,8 @@ Three Main Design Patterns were used for this Individual Project
 
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input1Output.PNG)
 
+- An Excel Sheet is created with output in "files" folder
+
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input1OutputSheet.PNG)
 
 
@@ -45,11 +47,15 @@ Three Main Design Patterns were used for this Individual Project
 
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input2Ouput.PNG)
 
+- An Error Text Notepad is created with output in "files" folder
+
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input2OutputText.PNG)
 
 
 ### Input 3
 
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input3Output.PNG)
+
+- An Excel Sheet is created with output in "files" folder
 
 ![](https://github.com/gopinathsjsu/Individual-Project-SahilBhagchandani/blob/master/Output/Input3OuputSheet.PNG)
