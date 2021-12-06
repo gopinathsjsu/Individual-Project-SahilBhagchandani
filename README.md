@@ -27,9 +27,9 @@ Three Main Design Patterns were used for this Individual Project
 
 ## Commands to run Project
  
- - Open Command Prompt in src file
- - Run `javac Main.Java` in command Prompt. Example :  `C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\src> javac Main.java`
- - Run `java Main "<FilePath_to_Dataset>" "<FilePath_to_Cards>" "<FilePath_to_InputFile>"` in command prompt. 
+ - Open Command Prompt or Terminal. Navigate to "src" Folder
+ - Run `javac Main.Java` in command Prompt or Terminal. Example :  `C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\src> javac Main.java`
+ - Run `java Main "<FilePath_to_Dataset>" "<FilePath_to_Cards>" "<FilePath_to_InputFile>"` in command prompt or Terminal. 
    Example :  `C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\src> java Main "C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\files\Dataset - Sheet1.csv" "C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\files\Cards - Sheet1.csv" "C:\Users\Sahil\Downloads\IndividualProject202\IndividualProject202\files\Input1 - Sheet1.csv"`
 
 ## Output
